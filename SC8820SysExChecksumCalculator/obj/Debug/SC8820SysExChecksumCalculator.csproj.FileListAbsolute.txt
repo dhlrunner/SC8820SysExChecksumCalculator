@@ -1,0 +1,9 @@
+C:\Users\DHL\source\repos\SC8820SysExChecksumCalculator\SC8820SysExChecksumCalculator\bin\Debug\SC8820SysExChecksumCalculator.exe.config
+C:\Users\DHL\source\repos\SC8820SysExChecksumCalculator\SC8820SysExChecksumCalculator\bin\Debug\SC8820SysExChecksumCalculator.exe
+C:\Users\DHL\source\repos\SC8820SysExChecksumCalculator\SC8820SysExChecksumCalculator\bin\Debug\SC8820SysExChecksumCalculator.pdb
+C:\Users\DHL\source\repos\SC8820SysExChecksumCalculator\SC8820SysExChecksumCalculator\obj\Debug\SC8820SysExChecksumCalculator.csprojAssemblyReference.cache
+C:\Users\DHL\source\repos\SC8820SysExChecksumCalculator\SC8820SysExChecksumCalculator\obj\Debug\SC8820SysExChecksumCalculator.Form1.resources
+C:\Users\DHL\source\repos\SC8820SysExChecksumCalculator\SC8820SysExChecksumCalculator\obj\Debug\SC8820SysExChecksumCalculator.Properties.Resources.resources
+C:\Users\DHL\source\repos\SC8820SysExChecksumCalculator\SC8820SysExChecksumCalculator\obj\Debug\SC8820SysExChecksumCalculator.csproj.GenerateResource.cache
+C:\Users\DHL\source\repos\SC8820SysExChecksumCalculator\SC8820SysExChecksumCalculator\obj\Debug\SC8820SysExChecksumCalculator.exe
+C:\Users\DHL\source\repos\SC8820SysExChecksumCalculator\SC8820SysExChecksumCalculator\obj\Debug\SC8820SysExChecksumCalculator.pdb
