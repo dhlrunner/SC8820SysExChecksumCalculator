@@ -1,2 +1,2 @@
 # RolandSysExChecksumCalculator
- Simple checksum calculator for roland Saund Canvas SysEx MIDI Messages
+ Simple checksum calculator for roland Sound Canvas SysEx MIDI Messages
